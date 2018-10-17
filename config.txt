@@ -1,0 +1,6 @@
+token=NTAwMjM1MzgzNDUyNDY3MjIw.DqiO2w.XdWvQXzfGO01vXaeFiwu5-oISgw
+owner=483801472371261451
+prefix=H
+game=Tybe hhelp
+stayinchannel=true
+songinstatus=false
